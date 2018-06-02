@@ -9,6 +9,4 @@ commit from master
 
 commit from develop
 
-commit for rebase master -3
-
 Repository for completing of Home task
