@@ -16,4 +16,6 @@ commit for rebase develop -2
 
 commit for cherry-pick
 
+commit for revert
+
 Repository for completing of Home task
